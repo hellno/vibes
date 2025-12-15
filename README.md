@@ -5,6 +5,7 @@ This repository documents my journey with prompts and tools for working with AI 
 
 ## Latest Workflows
 
+- [December 15, 2025](./dec-15) - Subagent prompt standards and report format templates
 - [July 28, 2025](./jul-28) - Claude Code custom agents for specialized development tasks
 - [July 8, 2025](./jul-8) - Code review prompts, implementation planning, and lean PRD creation
 
