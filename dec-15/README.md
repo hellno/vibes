@@ -21,4 +21,4 @@ cp CLAUDE.md ~/.claude/CLAUDE.md
 
 ## Source
 
-Based on [this tweet](https://x.com/0xhellno/status/1870556621960876523)
+Based on [this tweet](https://x.com/FUCORY/status/2000385394597343273) by fucory
