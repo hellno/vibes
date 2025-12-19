@@ -1,4 +1,4 @@
-# hellno/vibes
+# hellno/llms-and-me
 
 A collection of AI workflows captured at different points in time.
 This repository documents my journey with prompts and tools for working with AI tools effectively.
